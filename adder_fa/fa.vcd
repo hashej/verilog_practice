@@ -1,0 +1,50 @@
+$date
+	Mon Aug  7 13:53:29 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module fa_tb $end
+$var wire 1 ! sum_tb $end
+$var wire 1 " carry_tb $end
+$var reg 1 # a_tb $end
+$var reg 1 $ b_tb $end
+$var reg 1 % cin_tb $end
+$scope module U_faO $end
+$var wire 1 # a $end
+$var wire 1 $ b $end
+$var wire 1 & c1 $end
+$var wire 1 " carry $end
+$var wire 1 % cin $end
+$var wire 1 ' co $end
+$var wire 1 ( so $end
+$var wire 1 ! sum $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0(
+0'
+0&
+0%
+0$
+0#
+0"
+0!
+$end
+#3000
+1"
+1&
+1(
+1%
+1#
+#8000
+0&
+1!
+0(
+1'
+1$
